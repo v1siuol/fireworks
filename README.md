@@ -13,3 +13,4 @@ An efficient and realistic fireworks renderer using CUDA.
 - [Project Proposal](./project_proposal.pdf)
 - [Project Milestone Report](./project_milestone_report.pdf)
 - [Final Project Report](./final_project_report.pdf)
+- [Poster](./poster.pdf)
