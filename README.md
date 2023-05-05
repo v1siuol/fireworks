@@ -8,6 +8,8 @@ An efficient and realistic fireworks renderer using CUDA.
 
 ![firework-demo](./firework-demo.gif)
 
+[Uncompressed demo!!](./firework-demo-uc.gif)
+
 ## Documents
 
 - [Project Proposal](./project_proposal.pdf)
